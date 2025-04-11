@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prova HTML</title>
+</head>
+<body>
+    <H1> Curriculo</H1>
+
+    <h2>Nome completo</h2>
+   <p>Ezequiel De Oliveira Santos</p>
+   <p><STRong>Idade:</STRong> 22 Anos - Brasileiro - Solteiro</p>
+  
+   <h3>Sobre mim</h3>
+   <p>Sou um programador iniciante apaixonado por tecnologia e em constante busca de aprendizado e crescimento na área de desenvolvimento de software. Tenho conhecimentos em linguagens como Python, HTML e CSS, além de familiaridade com frameworks e ferramentas como React e Git.
+
+    Sou dedicado, curioso e sempre disposto a enfrentar novos desafios para aprimorar minhas habilidades técnicas.</p>
+
+   <h3>Formação acadêmica</h3>
+   <p>- Ensino médio completo / MG</p>
+   <P>- Curso Superior Em análise e desenvolvimento de sistemas/UNICV</P>
+
+   <H3>Experiência Profissional</H3>
+   <p><strong>- Jan/2020 a (Cargo Atual)</strong></p>
+   <p><strong>Atribuições:</strong> Atuação no centro de inteligência da operação realizando monitoramento e controle de 936,8 km da BR-040, entre Brasília (DF) á Juiz De Fora (MG), através do CFTV(Circuito fechado de Televisão)envolvendo todas as atividades de suporte e recursos para atendimento aos usuários, 24 horas por dia.
+    <br>- Realizo comunicação constante com todo o trecho monitorado (Viaturas operacionais da concessionária) e com recursos externos: Policia Rodoviária Federal(PRF), Policia Militar Rodoviária (PMRv), Serviço de Atendimento Móvel de Urgência(SAMU), Corpo de Bombeiros (COBOM), Núcleo de Emergência Ambiental (NEA), COP-BH (Centro Integrado de Operações da Prefeitura de Belo Horizonte), dentre outras, para qualquer tipo de acontecimento: congestionamentos, acidentes, solicitações de atendimento médico, socorro mecânico, incêndio e animais na pista.
+    <br>- Comunicação via Rádio, através do Código "Q" (padrão internacional).</p>
+
+    <h3>Soft- Skills</h3>
+    <p>- Comunicação eficaz.<br> - Trabalho em equipe. <br>- Resolução de conflitos. <br>- Empatia. <br>- Pensamento crítico.</p>
+
+    <h3>Cursos e Aprimoramentos</h3>
+    <p>- LGDP- Lei Geral de proteção de dados. <BR>- Programação Full Stack / Infinity School (cursando). <BR>- Informática /CAC. Microsoft Excel/ Word/PoweR Point/IPD Windows - CAC /MG.
+    </p>
+   
+
+</body>
+</html>
+
